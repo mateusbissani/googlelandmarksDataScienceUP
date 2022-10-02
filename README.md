@@ -2,7 +2,7 @@ Trabalho de Data Science, Universidade Positivo.
 
 https://github.com/mateusbissani/googlelandmarksDataScienceUP
 
-Integrantes do grupo: Gabriel Dilay; Mateus Bissani.
+Integrantes do grupo: Gabriel Dilay, Mateus Bissani.
 
 Turma: ES - Sexta
 
